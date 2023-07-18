@@ -208,6 +208,7 @@ button:active {
     justify-content: center;
     /* background-color: ; */
     overflow: hidden;
+    margin: 25px;
 }
 
 

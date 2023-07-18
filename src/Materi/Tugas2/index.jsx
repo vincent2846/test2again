@@ -6,7 +6,9 @@ export default class Tugas2 extends React.Component{
     render(){
         return(
             <div>
-                <PortoMain />
+                <PortoMain>
+                    <script src="./Porto/js/index.js" type="text/javascript" />
+                </PortoMain>
             </div>
         )
     }

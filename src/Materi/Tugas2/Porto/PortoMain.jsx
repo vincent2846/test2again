@@ -3,6 +3,8 @@ import React from "react";
 import './css/index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
+
 class PortoMain extends React.Component {
 
     render (){
@@ -31,8 +33,6 @@ class PortoMain extends React.Component {
                         <p>Hello, my name is Vincent Novianto. I am currently studying at Bina Nusantara University.</p>
                         <p>I would like to learn something new to improve my skills and knowledge, especially at coding. I'm not really good at communication and I'm still learning about it. I can easily understand something new and I am a fast learner.</p>
                     
-
-
             
                     </div>
                 </div>
