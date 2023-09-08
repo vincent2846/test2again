@@ -2,6 +2,7 @@ import FormAndValidation from "./Materi/FormAndValidation";
 import Rendering from "./Materi/LatihanRendering";
 import LatihanReusable from "./Materi/LatihanReusable";
 import Hello from "./Materi/LatihanReusable/Hello";
+import Redux from "./Materi/Redux";
 import Tugas2 from "./Materi/Tugas2";
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
           {/* <LatihanReusable /> */}
           {/* <Hello /> */}
           {/* <Rendering /> */}
-          <FormAndValidation />
+          {/* <FormAndValidation /> */}
+          <Redux />
     </div>
   );
 }
